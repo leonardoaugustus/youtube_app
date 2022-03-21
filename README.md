@@ -3,7 +3,7 @@
 O projeto é um aplicativo mobile desenvolvido em Flutter que permite assistir vídeos do youtube selecionando um canal específico. A Idéia do App é utilizar o mesmo layout do aplicativo Youtube, para isso, utilizei os componentes do Material design como Bottom Navigation Bar, Search Delegate, http, Consumo de API Google.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/62160298/159191208-ee12b1d7-5a09-4712-bc72-e7b0e4c55a22.png" alt="exemplo imagem">
+<img src="https://user-images.githubusercontent.com/62160298/159191984-e7a75041-06cd-4aae-b180-1b2cc737660b.png" alt="exemplo imagem">
 </div>
 
 ## 💻 Pré-requisitos
